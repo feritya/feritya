@@ -1,16 +1,49 @@
-## Hi there 👋
+## 👋 Hi, I'm Ferit Yaşar!
 
-<!--
-**feritya/feritya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### İş
+🔭 I’m currently working on  
+**Staj Takip Sistemi** – Üniversite öğrencilerinin staj başvuru ve onay süreçlerini dijitalleştiren bir platform  
+🔗 [GitHub Repository](https://github.com/kullaniciadi/staj-takip-sistemi)
 
-Here are some ideas to get you started:
+### İşbirliği Yapmak İstiyorum
+👯 I’m looking to collaborate on  
+**Avukatlık Web Sitesi Backend Projesi** – Django tabanlı içerik yönetimi ve iletişim sistemi  
+🔗 [GitHub Repository](https://github.com/kullaniciadi/avukatlik-backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Yardım Arıyorum
+🤝 I’m looking for help with  
+**Mashoor Backend** – NestJS + Prisma tabanlı bir proje üzerinde çalışıyorum, katkıya açığım  
+🔗 [GitHub Repository](https://github.com/kullaniciadi/mashoor-backend)
+
+### Öğreniyorum
+🌱 I’m currently learning  
+- NestJS & Prisma  
+- Next.js & Fullstack projeler  
+- Gömülü sistemlerde C  
+- Veri yapıları ve algoritmalar (Python)
+
+### Sorularınızı Bekliyorum
+💬 Ask me about  
+React, Vue.js ve GSAP ile animasyonlu arayüz geliştirme
+
+### Bana Ulaşın
+📫 How to reach me  
+📧 ferityasar@example.com  
+📷 [Instagram](https://instagram.com/kullaniciadi)  
+💼 [LinkedIn](https://linkedin.com/in/kullaniciadi)
+
+### Tüm Projelerim
+👨‍💻 All of my projects are available at  
+🌐 [https://ferityasar.dev](https://ferityasar.dev)
+
+### Yazılarım
+📝 I regularly write articles on  
+📰 [https://blog.ferityasar.dev](https://blog.ferityasar.dev)
+
+### Deneyimlerim
+📄 Know about my experiences  
+📃 [Resume/CV](https://ferityasar.dev/ozgecmis)
+
+### Eğlenceli Bilgi
+⚡ Fun fact  
+Kendimi komik buluyorum ama komik olup olmadığımı hâlâ test ediyorum 😄
