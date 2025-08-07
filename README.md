@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferit</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Internship Tracking System](https://github.com/feritya?tab=repositories)
+- 🔭 I’m currently working on [Internship Tracking System](https://github.com/feritya/Internship-Backend-)
 
 - 🌱 I’m currently learning **Embedded System Programming, Nest JS, Next JS**
 
