@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Embedded System Programming, Nest JS, Next JS**
 
-- 💬 Ask me about **Django, Python, C, C++, Next JS, Node JS, est JS**
+- 💬 Ask me about **Django, Python, C, C++, Next JS, Node JS, Nest JS**
 
 - 📫 How to reach me **yasarferit13@gmail.com**
 
