@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ferit</h1>
 <h3 align="center">A passionate Software Developer from Turkey</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=feritya&label=Profile%20views&color=0e75b6&style=flat" alt="feritya" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feritya" alt="feritya" /></a> </p>
-
-- 🔭 I’m currently working on [Internship Tracking System](https://github.com/ferity/Internship-Backend-a?tab=repositories)
 
 - 🌱 I’m currently learning **Embedded System Programming, Nest JS, Next JS**
 
