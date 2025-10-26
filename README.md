@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferit</h1>
-<h3 align="center">A passionate Software Developer from Turkey</h3>
+<h3 align="center">A passionate Software Developer from Türkiye</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🌱 I’m currently learning **Embedded System Programming, Nest JS, Next JS**
